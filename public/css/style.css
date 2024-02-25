@@ -1,0 +1,9 @@
+body{
+    font-family: 'Inter',sans-serif;
+}
+@media only screen and (max-width: 768px) {
+    .navbar-main{
+        display: none;
+    }
+    
+}
